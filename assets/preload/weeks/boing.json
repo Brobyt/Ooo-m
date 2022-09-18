@@ -1,0 +1,20 @@
+{
+	"songs": [
+		["Boing", "boing", [225, 0, 0]]
+	],
+
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "stage",
+
+	"storyName": "boing",
+	"weekBefore": "week6",
+	"weekName": "Boing",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}
